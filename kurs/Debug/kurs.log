@@ -1,0 +1,4 @@
+﻿  kurs.cpp
+C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\FordFulkerson.h(65,7): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\FordFulkerson.h(65,13): warning C4101: buf2: неиспользованная локальная переменная
+  kurs.vcxproj -> C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\Debug\kurs.exe

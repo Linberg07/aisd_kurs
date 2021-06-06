@@ -1,0 +1,5 @@
+﻿  kurs_test.cpp
+C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\FordFulkerson.h(65,7): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\FordFulkerson.h(65,13): warning C4101: buf2: неиспользованная локальная переменная
+     Создается библиотека C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\Debug\kurs_test.lib и объект C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\Debug\kurs_test.exp
+  kurs_test.vcxproj -> C:\Users\ZeFFI\Desktop\программирование\Аисд\kurs\Debug\kurs_test.dll
